@@ -1,0 +1,162 @@
+[
+    {
+        "id": "telefono-01",
+        "titulo": "Apple iPhone 13 Pro 6,1 1TB Plata",
+        "imagen": "./imagenes/telefonos/telefono-01.jpeg",
+        "categoria": {
+            "nombre": "Telefonos",
+            "id": "telefonos"
+        },
+        "precio": 1599
+    },
+    {
+        "id": "telefono-02",
+        "titulo": "Apple iPhone 13 6,1 256GB Blanco",
+        "imagen":"./imagenes/telefonos/telefono-02.jpeg",
+        "categoria": {
+            "nombre": "Telefonos",
+            "id": "telefonos"
+        },
+        "precio": 929
+    },
+    {
+        "id": "telefono-03",
+        "titulo":"Apple iPhone 14 Pro 6,1 1TB Negro",
+        "imagen": "./imagenes/telefonos/telefono-03.jpeg",
+        "categoria": {
+            "nombre": "Telefonos",
+            "id": "telefonos"
+        },
+        "precio": 1929
+    },
+    {
+        "id": "telefono-04",
+        "titulo": "Apple iPhone 14 6,1 256GB Negro",
+        "imagen":"./imagenes/telefonos/telefono-04.jpeg",
+        "categoria": {
+            "nombre": "Telefonos",
+            "id": "telefonos"
+        },
+        "precio": 1089
+    },
+    {
+        "id": "telefono-05",
+        "titulo": "Samsung Galaxy S22 5G 6,1 128GB Negro",
+        "imagen":"./imagenes/telefonos/telefono-05.jpeg",
+        "categoria": {
+            "nombre": "Telefonos",
+            "id": "telefonos"
+        },
+        "precio": 759
+    },
+    {
+        "id": "telefono-06",
+        "titulo": "Samsung Galaxy S23 Ultra 6,8 512GB Negro",
+        "imagen":"./imagenes/telefonos/telefono-06.jpeg",
+        "categoria": {
+            "nombre": "Telefonos",
+            "id": "telefonos"
+        },
+        "precio": 1589
+    },
+    {
+        "id": "telefono-07",
+        "titulo": "Samsung Galaxy Z Flip3 5G 6,7 128GB Negro",
+        "imagen":"./imagenes/telefonos/telefono-07.jpeg",
+        "categoria": {
+            "nombre": "Telefonos",
+            "id": "telefonos"
+        },
+        "precio": 586
+    },
+    {
+        "id": "telefono-08",
+        "titulo": "Samsung Galaxy Z Flip4 6,7 512GB Gris",
+        "imagen":"./imagenes/telefonos/telefono-08.jpeg",
+        "categoria": {
+            "nombre": "Telefonos",
+            "id": "telefonos"
+        },
+        "precio": 1159
+    },
+    {
+        "id": "tablet-01",
+        "titulo": "Samsung Galaxy Tab S8 Ultra 14,6 512GB 5G Gris",
+        "imagen": "./imagenes/tablets/tablet-01.jpeg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 1849
+    },
+    {
+        "id": "tablet-02",
+        "titulo": "Samsung Galaxy Tab S8 Ultra 14,6 512GB Gris",
+        "imagen": "./imagenes/tablets/tablet-02.jpeg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 1619
+    },
+    {
+        "id": "tablet-03",
+        "titulo": "Apple iPad Air (2022) 10.9 Wi-Fi 256 GB Blanco",
+        "imagen": "./imagenes/tablets/tablet-03.jpeg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 869
+    },
+    {
+        "id": "tablet-04",
+        "titulo": "Apple iPad Pro 2022 12,9'' M2 256GB Wi-Fi Plata",
+        "imagen": "./imagenes/tablets/tablet-04.jpeg",
+        "categoria": {
+            "nombre": "Tablets",
+            "id": "tablets"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "consola-01",
+        "titulo": "Consola Nintendo Switch OLED Azul/Rojo",
+        "imagen": "./imagenes/consolas/consola-01.jpeg",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 329
+    },
+    {
+        "id": "consola-02",
+        "titulo": "Consola PlayStation 5 825GB",
+        "imagen": "./imagenes/consolas/consola-02.jpeg",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 599
+    },
+    {
+        "id": "consola-03",
+        "titulo": "Consola Xbox serie S 512GB",
+        "imagen": "./imagenes/consolas/consola-03.jpeg",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 389
+    },
+    {
+        "id": "consola-04",
+        "titulo": "Consola Xbox serie X 512GB",
+        "imagen": "./imagenes/consolas/consola-04.jpeg",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "consolas"
+        },
+        "precio": 449
+    }
+]
